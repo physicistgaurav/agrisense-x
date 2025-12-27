@@ -134,4 +134,4 @@ The app will open at `http://localhost:8501`
 
 ## 🎬 Demo Video
 
-![AgriSense Demo](assets/demo.gif)
+![AgriSense Demo](assets/agri-sense.gif)
