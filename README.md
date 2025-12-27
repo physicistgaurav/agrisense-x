@@ -8,7 +8,7 @@
 
 1. **Explainable AI** - Not just predictions, but visual explanations using GradCAM showing exactly where the AI is looking
 2. **Conversational Expert** - Chat with Claude AI for follow-up questions about treatments, costs, and concerns
-3. **Multilingual Support** - Advice in English, Hindi, Nepali, and Spanish for broader farmer accessibility
+3. **Multilingual Support** - Advice in English, Hindi and Nepali for broader farmer accessibility
 4. **Treatment Timeline** - Actionable checklists and progress tracking
 6. **Low-Confidence Alerts** - Differential diagnosis for uncertain predictions
 
